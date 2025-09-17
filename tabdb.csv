@@ -1,0 +1,272 @@
+song,artist,year,type,gender,duration,language,tabber,source,date,difficulty,specialbooks
+(Don't Fear) The Reaper (Single Version),Blue Öyster Cult,1976,Group,male,00:03:46,english,Bernard,new,20241015,2.241,"halloween,temp"
+(You're the) Devil in Disguise,Elvis Presley,1964,Person,male,00:02:20,english,Bao,new,20221101,2.015,"halloween,temp"
+9 to 5,Dolly Parton,1980,Person,female,00:02:42,english,Manuel,old,20220830,4.156,"regular,womens,pride"
+99 Luftballons,Nena,1983,Person,female,00:03:52,german,Bernard,off,20230307,3.585,"regular,womens"
+A Ghost,Travis,2020,Group,male,00:03:38,english,Manuel,new,20221101,2.316,halloween
+A Horse With No Name,America,1971,Group,male,00:03:40,english,Bernard,new,20230704,2.701,usa
+A Little Respect,Erasure,1988,Group,male,00:03:16,english,Manuel,new,20230620,2.713,pride
+A Million Dreams,Ziv Zaifman/Hugh Jackman/Michelle Williams,2017,Person,duet,00:04:20,english,Manuel,new,,,
+Accidentally in Love,Counting Crows,2004,Group,male,00:03:08,english,Manuel,old,20210914,2.18,"regular,valentines"
+All I Wanna Do,Sheryl Crow,1994,Person,female,00:04:24,english,Manuel,new,,,
+All I Want For Christmas Is You,Mariah Carey,1994,Person,female,00:03:54,english,Manuel,new,20221206,3.265,xmas
+All Star,Smash Mouth,1999,Group,male,00:03:12,english,Bernard,new,20230905,4.325,
+All The Small Things,Blink-182,1999,Group,male,00:02:47,english,Bernard,off,20211026,1.28,"regular,valentines"
+All These Things That I've Done,The Killers,2004,Group,male,00:05:02,english,Adelaide,off,20220208,3.829,regular
+Alright,Supergrass,1995,Group,male,00:03:01,english,Manuel,new,20220201,1.919,
+Always Look on the Bright Side of Life,Monty Python,1979,Group,male,00:03:06,english,Manuel,old,20210907,3.045,
+Angels,Robbie Williams,1997,Person,male,00:04:25,english,Manuel,old,20210914,3.699,"regular,valentines"
+Anyone Else But You,The Moldy Peaches,2001,Group,duet,00:03:00,english,Bernard,old,20211005,0.952,"regular,valentines,pride"
+Baby One More Time,Britney Spears,1998,Person,female,00:03:31,english,Manuel,old,20211102,3.688,"regular,valentines,womens,pride"
+Back for Good,Take That,1995,Group,male,00:04:02,english,Manuel,old,20211005,3.037,valentines
+Bad Moon Rising,Creedence Clearwater Revival,1969,Group,male,00:02:22,english,Manuel,old,20211005,0.978,regular
+Basket Case,Green Day,2013,Group,male,00:03:01,english,Bernard,off,20230221,3.509,"regular,pride"
+Bella Ciao,Fonola Band,1997,Group,male,00:02:00,italian,Manuel,new,20240514,3.221,monopolele
+Beverly Hills,Weezer,2005,Group,male,00:03:10,english,Bernard,new,,3.095,
+Big Yellow Taxi,Joni Mitchell,1970,Person,female,00:02:14,english,Manuel,old,20240507,3.331,regular
+Bitch,Meredith Brooks,1997,Person,female,00:04:04,english,Bao,new,,2.624,
+Black Horse And The Cherry Tree,KT Tunstall,2004,Person,female,00:02:50,english,Jacques,new,,,
+Blitzkrieg Bop,Ramones,1976,Group,male,00:02:14,english,Bernard,old,20210914,2.671,regular
+Blue Suede Shoes,Elvis Presley,1956,Person,male,00:02:00,english,Manuel,old,20210907,1.561,regular
+Bohemian Like You,The Dandy Warhols,2000,Group,male,00:03:31,english,Bernard,old,20211026,2.798,valentines
+Bongo Bong / Je ne t'aime plus,Manu Chao,1998,Person,male,00:04:40,english,Manuel,new,,,
+"Boom, Boom, Boom, Boom!!",Vengaboys,1999,Group,female,00:03:20,english,Bernard,new,20220215,3.5,"valentines,pride"
+Boris The Spider,The Who,1966,Group,male,00:02:24,english,Jacques,new,20221101,4.16,"halloween,temp"
+Born in the U.S.A.,Bruce Springsteen,1984,Person,male,00:04:00,english,Manuel,new,20230704,3.431,usa
+Born to be Wild,Steppenwolf,1970,Group,male,00:03:30,english,Manuel,old,20211012,2.748,regular
+Brown Eyed Girl,Van Morrison,1967,Person,male,00:03:04,english,Manuel,old,,,
+Build Me Up Buttercup,The Foundations,1968,Group,male,00:02:50,english,Manuel,old,20211005,3.416,"regular,valentines"
+Burn The Witch,Queens Of The Stone Age,2006,Group,male,00:03:34,english,Jacques,new,20231031,3.598,halloween
+C'est la Vie,B*Witched,1998,Group,female,00:02:52,english,Manuel,new,20230314,2.816,"regular,valentines,paddys,womens"
+Californication,Red Hot Chilli Peppers,1999,Group,male,00:05:24,english,Manuel,new,20240702,2.898,us
+Call Me,Blondie,1980,Group,female,00:03:18,english,Bernard,new,20231114,3.259,"regular,valentines,womens,pride"
+Call Me Maybe,Carly Rae Jepsen,2012,Person,female,00:03:06,english,Manuel,new,20240625,1.683,pride
+Can't Get You out of My Head,Kylie Minogue,2001,Person,female,00:03:51,english,Manuel,new,20230307,2.301,"regular,valentines,womens,pride"
+Candy,Paolo Nutini,2009,Person,male,00:04:58,english,Manuel,new,20220621,1.376,"regular,valentines,halloween"
+Chasing Cars,Snow Patrol,2006,Group,male,00:04:26,english,Manuel,new,20220215,1.379,"regular,valentines,paddys"
+Cheap Thrills,Sia,2016,Person,female,00:03:24,english,Jacques,new,20230919,2.214,"regular,womens,pride"
+Christmas (Baby Please Come Home),U2,1987,Group,male,00:02:20,english,Manuel,new,20221206,,xmas
+Christmas In Las Vegas,Richard Cheese,2006,Group,male,00:02:06,english,Bernard,new,20221206,3.614,xmas
+Complicated,Avril Lavigne,2002,Person,female,00:03:32,english,Manuel,old,20211012,2.316,"regular,womens"
+"Comptine d'un autre été, l'après-midi",Yann Tiersen,2001,Person,instrumental,00:02:14,none,Bernard,new,20240716,1.651,bastille
+Crazy World,Aslan,1994,Group,male,00:04:32,english,Manuel,new,20230613,1.914,"regular,paddys"
+Creep,Radiohead,1992,Group,male,00:03:58,english,Manuel,old,20211005,1.624,"regular,valentines"
+Crocodile Rock,Elton John,1973,Person,male,00:03:42,english,Manuel,old,20230620,2.583,pride
+Cruel Summer,Taylor Swift,2019,Person,female,00:02:58,english,Adelaide,new,20240702,2.531,usa
+Crush,Jennifer Paige,1998,Person,female,00:03:04,english,Manuel,new,,3.478,
+Danger! High Voltage (Soulchild radio mix),Electric 6,2003,Group,male,00:03:20,english,Manuel,new,,,
+Dearg Doom,Horslips,2009,Group,male,00:02:54,english,Manuel,new,,,
+Demons,Imagine Dragons,2013,Group,male,00:02:54,english,Jacques,new,20221101,2.931,halloween
+Dirty Old Town,The Pogues,1985,Group,male,00:03:45,english,Manuel,old,20220301,1.918,"regular,valentines,paddys"
+Do They Know It's Christmas?,Band Aid,1984,Group,ensemble,00:03:34,english,Manuel,new,20211214,2.428,xmas
+Dog Days Are Over,Florence + The Machine,2008,Group,female,00:04:10,english,Adelaide,new,20230926,1.814,"regular,womens"
+Don't Be a Dick at Christmas,Seán Carabini,2018,Person,male,00:03:46,english,Manuel,off,20211207,2.703,xmas
+Don't Speak,No Doubt,1995,Group,female,00:04:16,english,Manuel,new,,,
+Don't Stop Me Now,Queen,1978,Group,male,00:03:29,english,Manuel,old,20211005,3.052,"regular,pride"
+Don't Worry Be Happy,Bobby McFerrin,1988,Person,male,00:04:38,english,Manuel,old,,,
+Don't You (Forget About Me),Simple Minds,1985,Group,male,00:04:30,english,Manuel,new,20220510,2.138,"regular,valentines"
+Don't You Want Me,The Human League,1981,Group,duet,00:03:36,english,Manuel,old,,,
+Dream A Little Dream Of Me,The Mamas & The Papas,1968,Group,female,00:03:10,english,Bernard,new,20240702,3.69,us
+Dreams,The Cranberries,1992,Group,female,00:04:32,english,Manuel,off,20220222,2.369,"regular,valentines,womens,paddys"
+Driving Home for Christmas,Chris Rea,1986,Person,male,00:03:56,english,Manuel,new,20221206,3.676,xmas
+Enter Sandman,Metallica,1991,Group,male,00:05:06,english,Manuel,new,20211102,,halloween
+Every Breath You Take,The Police,1983,Group,male,00:03:34,english,Manuel,new,20221101,2.67,"halloween,temp"
+Everybody (Backstreet's Back) (Radio Edit),Backstreet Boys,1997,Group,male,00:03:40,english,Manuel,new,20241015,3.395,"halloween,temp"
+Ex's & Oh's,Elle King,2014,Person,female,00:03:32,english,Manuel,off,20220906,2.051,"regular,womens"
+Express Yourself,Madonna,1989,Person,female,00:03:56,english,Manuel,new,20230620,1.249,pride
+Eye of the Tiger,Survivor,1982,Group,male,00:04:05,english,Manuel,old,20210914,4.061,regular
+Fairytale Of New York (feat. Kirsty MacColl),The Pogues,1988,Group,duet,00:04:00,english,Manuel,new,20221206,2.805,xmas
+Faith,George Michael,1987,Person,male,00:02:28,english,Manuel,old,20211005,3.358,"regular,pride"
+Fast Car,Tracy Chapman,1988,Person,female,00:04:52,english,Manuel,new,,,
+Feliz Navidad,José Feliciano,1970,Person,male,00:03:00,"spanish,english",Manuel,new,20221206,1.792,xmas
+Float On,Modest Mouse,2004,Group,Male,00:03:28,english,Bernard,new,20230110,3.473,
+Flowers,Miley Cyrus,2023,Person,female,00:03:16,english,Bao,new,20231003,2.633,"regular,womens,pride"
+Flowers Survive My Man,"Gloria Gaynor, Miley Cyrus, Bruno Mars",2023,Group,duet,00:03:00,english,Bao,new,20230516,,
+Folsom Prison Blues,Johnny Cash,1955,Person,male,00:02:35,english,Manuel,old,20211005,1.379,regular
+Freedom! '90 (Edit),George Michael,1990,Person,male,00:05:18,english,Manuel,new,20230620,2.664,pride
+Friday I'm In Love,The Cure,1992,Group,male,00:03:35,english,Manuel,old,20211012,1.952,"regular,valentines"
+Fuck Her Gently,Tenacious D,2001,Group,male,00:02:00,english,Bernard,off,20220426,2.791,"regular,valentines"
+Fuck You,Cee Lo Green,2010,Person,male,00:03:43,english,Manuel,old,20230926,2.382,regular
+Gangsta's Paradise,"Coolio, L.V.",1995,Person,male,00:04:00,english,Manuel,new,20221004,2.915,regular
+Ghostbusters,Ray Parker Jr.,1984,Person,male,00:03:58,english,Manuel,new,20211102,3.946,"halloween,temp"
+Give Peace A Chance,Plastic Ono Band,1969,Group,male,00:04:40,english,Bernard,new,20220301,4.732,peace
+Grace Kelly,MIKA,2007,Person,male,00:02:56,english,Jacques,new,20230620,3.863,pride
+Groove Is in the Heart (in G),Deee-Lite,1990,Group,female,00:03:48,english,Manuel,new,,,
+Hand in My Pocket,Alanis Morissette,1995,Person,female,00:03:39,english,Manuel,old,20211102,0.929,"regular,womens,pride"
+Happy Birthday To You (in D),Traditional,1893,Group,ensemble,00:00:20,english,Jacques,off,20220913,0.97,"regular,valentines,womens,paddys,pride,xmas,peace"
+Happy Xmas (War is Over),"John Lennon, Yoko Ono",1971,Person,duet,00:03:20,english,Manuel,new,20221206,2.738,xmas
+Hate To Say I Told You So,The Hives,2000,Group,male,00:03:21,english,Jacques,new,20220322,1.713,
+Heartbeats,The Knife,2004,Group,female,00:03:50,english,Jen,new,,,
+Here Comes the Morning,Ukulele Tuesday,2023,Group,female,00:04:05,english,Manuel,new,,,
+Heroes (single version),David Bowie,1977,Person,male,00:03:54,english,Manuel,new,20220426,1.431,"regular,pride"
+Hey Jude,The Baotles,1968,Group,male,00:06:50,english,Manuel,old,20211012,2.935,"regular,valentines"
+Hey Ya,OutKast,2003,Group,male,00:03:56,english,Adelaide,off,20240702,1.457,us
+Highway to Hell,AC/DC,1979,Group,male,00:03:28,english,Manuel,off,20221101,2.411,regular
+Ho Hey,The Lumineers,2012,Group,male,00:02:43,english,Jacques,off,20220816,1.142,"regular,valentines"
+Holding Out for a Hero,Bonnie Tyler,1986,Person,female,00:04:18,english,Manuel,new,20220607,2.937,"regular,valentines,womens,pride"
+Hot N Cold,Katy Perry,2007,Person,female,00:03:32,english,Adelaide,old,20220531,1.539,"regular,valentines,womens"
+Hotel California,The Eagles,1977,Group,male,00:06:05,english,Manuel,old,20220607,2.835,regular
+Hotel Yorba,The White Stripes,2001,Group,male,00:02:05,english,Jacques,new,20220208,1.065,"regular,valentines"
+House Of Gold,Twenty One Pilots,2011,Group,male,00:02:40,english,Bernard,off,20220301,1.651,regular
+House of the Rising Sun,The Animals,1964,Group,male,00:04:21,english,Manuel,old,20211012,2.875,regular
+Hysteria,Muse,2003,Group,male,00:03:44,english,Manuel,new,20221101,,
+I Feel Love,Donna Summer,1979,Person,female,00:03:22,english,Manuel,new,20230613,1.829,"valentines,pride"
+I Kissed A Girl,Katy Perry,2008,Person,female,00:02:58,english,Manuel,new,20230613,1.295,"regular,valentines,womens,pride"
+I Love It (feat. Charli XCX),Icona Pop,2012,Group,female,00:02:32,english,Manuel,new,20230307,3.669,"regular,valentines,womens,pride"
+I Love Rock 'N Roll,Joan Jett & The Blackhearts,2015,Group,female,00:02:54,english,Bernard,new,,3.62,
+I Love You Always Forever,Donna Lewis,1996,Person,female,00:03:43,english,Manuel,new,,2.346,
+I Only Want To Be With You,Dusty Springfield,1963,Person,female,00:02:32,english,Manuel,old,20230307,2.11,"regular,valentines,womens,pride"
+I Say a Little Prayer,Aretha Franklin,1968,Person,female,00:03:30,english,Manuel,new,20240625,,pride
+I Think We're Alone Now,Tommy James & The Shondells,1966,Group,male,00:02:12,english,Bernard,old,20211116,2.626,"valentines,pride"
+I Want to Break Free,Queen,1984,Group,male,00:02:58,english,Manuel,old,20220301,3.775,"regular,pride"
+I Will Survive,Gloria Gaynor,1978,Person,female,00:03:12,english,Manuel,old,20211130,1.912,"regular,valentines,womens,pride"
+I'm On Fire,Bruce Springsteen,1984,Person,male,00:02:26,english,Manuel,new,20231024,3.172,valentines
+I'm Shipping Up To Boston,Dropkick Murphys,2005,Group,male,00:02:30,english,Manuel,new,,,
+Imagine,John Lennon,1971,Person,male,00:02:58,english,Manuel,old,20211102,2.02,"regular,peace"
+In Bloom,Nirvana,1994,Group,male,00:04:12,english,Bernard,new,20211130,3.608,"regular,pride"
+In Too Deep,Sum 41,2001,Group,male,00:03:26,english,Manuel,new,,,
+Island In The Sun,Weezer,2001,Group,male,00:03:20,english,Bernard,new,20220517,1.699,regular
+Islands in the Stream,"Dolly Parton, Kenny Rogers",1983,Person,duet,00:04:02,english,Manuel,new,,,
+It Must Have Been Love,Roxette,1990,Group,female,00:04:16,english,Manuel,new,,3.339,
+I’ve Been Everywhere,Johnny Cash,1959,Person,male,00:02:50,english,Manuel,new,,,
+Je t'aime... moi non plus,Jane Birkin & Serge Gainsbourg,1969,Person,male,00:04:28,french,Bernard,new,20230718,2.603,"valentines,bastille"
+Jeremy,Pearl Jam,1991,Group,male,00:05:12,english,Manuel,new,20221101,1.533,regular
+Jingle Bell Rock,Bobby Helms,1957,Person,male,00:02:06,english,Manuel,new,20221206,3.62,xmas
+Jolene,Dolly Parton,1973,Person,female,00:02:36,english,Bao,old,20211005,3.583,"regular,valentines,womens,pride"
+Jump in the Line,Harry Belafonte,1961,Person,male,00:03:36,english,Bernard,off,20220208,1.94,regular
+Just A Girl,No Doubt,1995,Group,female,00:03:16,english,Bernard,off,20211116,2.373,"regular,womens"
+Just Can't Get Enough,Depeche Mode,1981,Group,male,00:03:30,english,Manuel,new,20211123,2.07,"regular,valentines,pride"
+Karma Chameleon,Culture Club,1983,Group,male,00:03:52,english,Manuel,old,20220301,2.993,"regular,pride"
+Kids,MGMT,2005,Group,male,00:04:50,english,Adelaide,old,20220201,3.277,regular
+Kids in America,Kim Wilde,1981,Person,female,00:03:30,english,Manuel,old,20230307,3.05,"regular,womens"
+Kiss/Mustang Sally Medley,Prince/The Commitments,1966,Group,male,00:05:30,english,Manuel,off,20220315,3.897,"regular,valentines,pride"
+L'italiano,Toto Cutugno,1983,Person,male,00:03:52,italian,Manuel,new,20221129,3.02,monopolele
+La Marseillaise (abridged),Rouget de Lisle,1909,Person,male,00:01:00,french,Bernard,new,20230718,1.841,bastille
+Lady Madonna,The Baotles,1970,Group,male,00:02:10,english,Bernard,old,20210907,2.393,regular
+Lambada,Kaoma,1989,Group,female,00:03:04,portuguese,Manuel,new,,,
+Last Christmas,Wham!,1984,Group,male,00:04:28,english,Manuel,off,20221206,1.838,xmas
+Lava,"Kuana Torres Kahele, Napua Greig, James Ford Murphy",2015,Person,duet,00:05:36,english,Cristina,new,20230214,1.676,valentines
+Le Banana Split,Lio,1979,Person,female,00:02:28,french,Bernard,new,20230718,1.651,
+Learn to Fly,Foo Fighters,2013,Group,male,00:03:52,english,Manuel,new,20220329,3.025,regular
+Les Champs-Élysées,Joe Dassin,1969,Person,male,00:02:26,french,Bernard,old,20230718,4.179,
+Let it Be,The Baotles,1970,Group,male,00:03:42,english,Manuel,old,20220201,2.068,"regular,valentines"
+Levitating (feat. DaBaby),"Dua Lipa, DaBaby",2020,Person,female,00:03:23,english,Manuel,new,,,
+Linger,The Cranberries,1993,Group,female,00:04:30,english,Manuel,off,20220222,1.902,"regular,womens,paddys"
+Little Lion Man,Mumford and Sons,2009,Group,male,00:03:56,english,Manuel,old,20211130,2.358,regular
+Little Talks,Of Monsters And Men,2011,Group,duet,00:04:02,english,Jacques,new,,,
+Live is Life,Opus,1984,Group,male,00:03:56,english,Manuel,new,,,
+Livin' on a Prayer,Bon Jovi,1987,Group,male,00:03:40,english,Manuel,old,20211102,2.562,regular
+Lola,The Kinks,1970,Group,male,00:03:40,english,Manuel,old,20211123,3.449,"valentines,pride"
+Losing My Religion,R.E.M.,1991,Group,male,00:04:24,english,Jacques,new,,,
+Love Machine,Girls Aloud,2008,Group,female,00:03:16,english,Cristina,new,20240213,1.796,"regular,valentines,womens"
+Love Me Do,The Baotles,1962,Group,male,00:02:18,english,Manuel,new,,,valentines
+Luka,Suzanne Vega,1987,Person,female,00:03:44,english,Manuel,new,,,
+Macarena (Bayside Boys Remix),Los Del Rio,1995,Group,duet,00:03:42,"spanish,english",Manuel,new,20220510,4.266,regular
+Man! I Feel Like A Woman!,Shania Twain,1997,Person,female,00:03:54,english,Cristina,new,20220920,3.017,"regular,womens"
+Material Girl,Madonna,1985,Person,female,00:04:00,english,Manuel,new,20230221,2.845,"regular,womens,pride"
+Merry Christmas (I Don't Want to Fight Tonight),Ramones,1989,Group,male,00:02:00,english,Manuel,new,20221206,1.916,xmas
+Merry Christmas Everyone,Shakin' Stevens,1985,Person,male,00:03:38,english,Manuel,new,20211207,,xmas
+Merry Xmas Everybody,Slade,1973,Group,male,00:03:40,english,Manuel,new,20211207,3.294,xmas
+Minor Moon,Creedence Clearwater Revival,1969,Group,male,00:02:22,english,Bernard,off,20221101,2.095,halloween
+Misirlou,Dick Dale,1959,Person,male,00:02:15,,Manuel,off,,,
+Mistletoe and Wine,Cliff Richard,1988,Person,male,00:04:00,english,Manuel,new,20211207,,xmas
+Moi... Lolita,Alizée,2000,Person,female,00:04:16,french,Bernard,new,20230718,2.809,
+Monster Mash,Bobby (Boris) Pickett and the Crypt-Kickers,1962,Group,male,00:03:06,english,Bernard,off,20221101,1.565,"halloween,temp"
+Moves Like Jagger,Maroon 5 (feat. Christina Aguilera),2011,Group,male,00:03:22,english,Manuel,new,,,
+Mr. Jones,Counting Crows,1991,Group,male,00:04:28,english,Manuel,old,,,
+Nightcall,Kavinsky,2010,Person,male,00:03:52,english,Manuel,new,20241015,2.232,"halloween,temp"
+Not Fair,Lily Allen,2009,Person,female,00:03:22,english,Adelaide,new,20230307,2.192,"regular,womens"
+Nothing Compares 2 U,Sinéad O'Connor,1990,Person,female,00:04:42,english,Manuel,new,20230314,2.589,"regular,valentines,paddys,womens"
+Numb,Linkin Park,2002,Group,male,00:03:06,english,Manuel,new,,,
+O Canada,Calixa Lavallée,2013,Person,ensemble,00:01:26,"english,french",Kaitlyn,new,20240702,2.628,canada
+One Way or Another,Blondie,1979,Group,female,00:03:20,english,Manuel,new,20231031,4.526,"halloween,valentines,womens,pride"
+"Paint it, Black",The Rolling Stones,1966,Group,male,00:03:22,english,Manuel,old,20211109,2.248,regular
+Pencil Full of Lead,Paolo Nutini,2009,Person,male,00:02:26,english,Manuel,new,,,
+Pineapple Mango,Daniel Ho,2013,Person,male,00:02:46,"hawaiian,english",Manuel,new,20240827,1.082,
+Price Tag,Jessie J (feat. B.o.B),2011,Person,female,00:03:40,english,Manuel,old,20220517,1.913,"regular,womens"
+Proud Mary,Tina Turner,1993,Person,female,00:05:22,english,Manuel,new,20230530,1.884,"regular,womens,pride"
+Psycho Killer,Talking Heads,1977,Group,male,00:04:14,"english,french",Bernard,old,20210907,1.805,regular
+Radio Gaga,Queen,1984,Group,male,00:05:48,english,Manuel,new,20230620,3.555,pride
+Re: Your Brains,Jonathan Coulton,2006,Person,male,00:04:26,english,Bernard,off,20221101,4.604,halloween
+Red Wine Supernova,Chappell Roan,2023,Person,female,00:03:12,english,Adelaide,new,20240625,1.468,"regular,pride"
+Rehab,Amy Winehouse,2006,Person,female,00:03:32,english,Manuel,new,,2.458,
+Respect,Aretha Franklin,1967,Person,female,00:02:22,english,Manuel,new,20240312,2.549,"regular,womens,pride"
+Ripples in the Rockpool,Rita Connolly,1995,Person,female,00:03:24,english,Manuel,new,,,
+Riptide,Vance Joy,2013,Person,male,00:03:18,english,Manuel,off,,,
+Roar,Katy Perry,2013,Person,female,00:03:40,english,Manuel,new,20230620,2.16,pride
+Santa Baby,"Ariana Grande, Liz Gillies",2013,Person,female,00:02:48,english,Manuel,new,20221206,1.683,xmas
+Sarà Perché Ti Amo,Ricchi E Poveri,1981,Group,duet,00:02:57,italian,Bernard,new,20240521,3.176,regular
+Self Control,Laura Branigan,1984,Person,female,00:03:50,english,Manuel,new,20231024,2.733,"valentines,womens"
+Set Fire to the Rain,Adele,2011,Person,female,00:03:54,english,Manuel,new,20221129,2.365,"regular,womens"
+Shake It Off,Taylor Swift,2014,Person,female,00:03:34,english,Jacques,new,20240702,0.694,us
+Shake It Out,Florence + The Machine,2011,Person,female,00:04:22,english,Manuel,new,,,
+She Wolf,Shakira,2009,Person,female,00:03:06,english,Manuel,new,20221101,2.052,"halloween,temp"
+Should I Stay or Should I Go,The Clash,1982,Group,male,00:03:06,"english,spanish",Manuel,old,20210907,1.535,regular
+Silent Night,Taylor Swift,2007,Person,female,00:03:04,english,Manuel,new,20211207,1.983,xmas
+Since U Been Gone,Kelly Clarkson,2004,Person,female,00:03:06,english,Jacques,new,20230307,2.464,"regular,womens"
+Sit Down,James,1990,Group,male,00:03:52,english,Manuel,new,,,
+So What,P!nk,2008,Person,female,00:03:35,english,Adelaide,new,20240625,2.279,"regular,pride"
+Somebody that I used to know,Gotye (feat. Kimbra),2011,Person,female,00:04:02,english,Adelaide,new,,,
+Somebody to Love,Queen,1976,Group,male,00:05:00,english,Manuel,new,20230516,,
+Somebody's Watching Me,Rockwell,1984,Person,male,00:03:40,english,Manuel,new,20231031,3.231,halloween
+Song For Jedi,Dionysos,2002,Group,male,00:02:56,"french,english",Bernard,new,20220712,3.126,
+Space Oddity,David Bowie,1969,Person,male,00:04:50,english,Jacques,off,20220405,3.841,"regular,pride"
+Spice Up Your Life,Spice Girls,1997,Group,female,00:02:46,english,Manuel,new,20220621,1.02,"regular,womens"
+Stay Stay Stay,Taylor Swift,2012,Person,female,00:03:22,english,Jacques,new,20230307,1.461,valentines
+Step Into Christmas,Elton John,1973,Person,male,00:04:30,english,Manuel,new,20221206,,xmas
+Stuck in the Middle with You,Stealers Wheel,1972,Group,male,00:03:20,english,Manuel,old,20220510,1.244,regular
+"Sugar, We're Goin Down",Fall Out Boy,2005,Group,male,00:03:34,english,Bernard,new,20240702,2.208,us
+Summer of '69,Bryan Adams,1985,Person,male,00:03:20,english,Manuel,old,20220621,2.119,"regular,valentines"
+Sweet Dreams (Are Made of This),Eurythmics,1983,Group,female,00:03:16,english,Manuel,new,20221101,2.596,"regular,womens,pride"
+Sympathy for the Devil,The Rolling Stones,1968,Group,male,00:05:20,english,Manuel,old,20211102,2.495,regular
+Take A Chance On Me,ABBA,1977,Group,female,00:04:03,english,Adelaide,new,20220531,3.978,"regular,valentines,womens,pride"
+Take on Me,a-ha,1984,Group,male,00:03:30,english,Adelaide,old,20211019,3.399,"regular,valentines,pride"
+Talkin' Bout a Revolution,Tracy Chapman,1988,Person,female,00:02:33,english,Manuel,new,,,
+Tequila,The Champs,1958,Group,ensemble,00:02:10,spanish,Manuel,new,,3.036,
+Thank God It's Christmas,Queen,1984,Group,male,00:04:12,english,Manuel,new,20221206,,xmas
+That's Not My Name (Radio Edit),The Ting Tings,2008,Group,female,00:03:32,english,Manuel,new,,,
+The Best (Edit),Tina Turner,1989,Person,female,00:04:00,english,Manuel,new,20220913,2.447,"regular,valentines,womens,pride"
+The Final Countdown,Europe,1986,Group,male,00:04:52,english,Manuel,old,20220301,5.066,regular
+The Ketchup Song (Aserejé),Las Ketchup,2002,Group,female,00:03:08,english,Manuel,new,,3.628,
+The Lion Sleeps Tonight,The Tokens,1961,Group,male,00:02:38,english,Manuel,old,20210914,1.49,regular
+The Season's Upon Us,Dropkick Murphys,2013,Group,male,00:03:52,english,Manuel,new,20221206,,xmas
+Thriller,Michael Jackson,1982,Person,male,00:05:10,english,Manuel,new,20221101,4.883,halloween
+Time Warp,The Rocky Horror Picture Show,1973,Group,duet,00:03:28,english,Bernard,off,20221101,2.567,"halloween,pride"
+To The Moon,Ukulele Tuesday,2024,Group,female,00:02:50,english,Bao,new,,,
+Torn,Natalie Imbruglia,1997,Person,female,00:04:08,english,Manuel,new,20220510,2.625,"regular,womens"
+Toxic,Britney Spears,2004,Person,female,00:03:18,english,Manuel,old,20211123,3.084,"regular,valentines,womens,pride"
+Tragedy,Bee Gees,1979,Group,male,00:04:44,english,Manuel,new,20220426,3.178,"valentines,pride"
+Tribute,Tenacious D,2001,Group,male,00:04:02,english,Manuel,new,20221101,2.13,"halloween,temp"
+True Colors,Cindy Lauper,1986,Person,female,00:03:34,english,Jacques,new,20230620,2.682,pride
+True Trans Soul Rebel,Against Me!,2014,Group,male,00:03:04,english,Jacques,new,20240625,2.9,pride
+Truly Madly Deeply,Savage Garden,1997,Group,male,00:04:34,english,Bernard,new,20220621,1.435,"valentines,pride"
+Twist in My Sobriety,Tanita Tikaram,1988,Person,female,00:04:46,english,Manuel,new,20240625,1.399,pride
+Up in Arms,Aslan (feat. Sinéad O'Connor),2007,Group,duet,00:03:30,english,Manuel,new,,,
+Valerie,Amy Winehouse,2007,Person,female,00:03:36,english,Manuel,old,20211116,3.108,"regular,valentines,womens,pride"
+vampire,Olivia Rodrigo,2023,Person,female,00:03:38,english,Manuel,new,20231031,2.042,"regular,womens"
+Voyage voyage,Desireless,2001,Person,male,00:04:06,french,Manuel,new,20240716,4.67,bastille
+Wake Up,Arcade Fire,2005,Group,male,00:05:28,english,Jacques,off,20220524,1.414,regular
+Walk Of Life,Dire Straits,1985,Group,male,00:03:56,english,Manuel,old,,,
+Walking On Sunshine,Katrina & The Waves,1985,Group,female,00:03:44,english,Manuel,new,20240109,2.23,"regular,valentines,womens,pride"
+Waterloo,ABBA,1977,Group,female,00:02:42,english,Manuel,new,20230509,2.162,"regular,valentines,womens,pride"
+We Are Family,Sister Sledge,1979,Group,female,00:03:24,english,Manuel,new,20230620,1.758,pride
+We Are Young,fun. (feat. Janelle Monáe),2011,Person,male,00:04:06,english,Jacques,new,20230620,2.741,pride
+What's Up?,4 Non Blondes,1993,Group,female,00:04:48,english,Bao,new,20211005,1.842,"regular,womens,pride"
+When You're Gone,"Bryan Adams, Melanie C",1998,Person,duet,00:03:20,english,Manuel,new,,,
+Where the Streets Have No Name,U2,1987,Group,male,00:04:46,english,Manuel,new,20220215,1.66,
+Where's Me Jumper?,Sultans Of Ping F.C.,1993,Group,male,00:03:00,english,Jacques,new,,,
+Whiskey in the Jar,Thin Lizzy,1972,Group,male,00:05:45,english,Manuel,new,20230516,,
+White Flag,Dido,2003,Person,female,00:03:58,english,Jacques,new,20220524,2.482,"regular,valentines,womens"
+Whole Again,Atomic Kitten,2000,Group,female,00:03:02,english,Manuel,new,,3.154,
+Why Don't You Get A Job,The Offspring,1998,Group,male,00:02:50,english,Manuel,new,20220426,1.666,regular
+Wind of Change,Scorpions,1990,Group,male,00:05:02,english,Manuel,old,,,
+With Or Without You,U2,1987,Group,male,00:04:40,english,Manuel,off,20220308,1.765,"regular,valentines,paddys"
+Wrecking Ball,Miley Cyrus,2013,Person,female,00:03:32,english,Manuel,new,20220621,2.597,"regular,womens,pride"
+You Gotta Be,Des'ree,1994,Person,female,00:04:10,english,Manuel,new,,,
+You Never Can Tell,Chuck Berry,1964,Person,male,00:02:30,english,Manuel,new,,,
+You Oughta Know,Alanis Morissette,1995,Person,female,00:04:06,english,Manuel,new,20230620,2.818,pride
+You're So Vain,Carly Simon,1972,Person,female,00:04:10,english,Manuel,new,20220621,2.035,"regular,womens"
+You're The One That I Want,"John Travolta, Olivia Newton-John",1978,Person,duet,00:02:42,english,Manuel,old,20220809,2.327,"regular,valentines"
+You've Got The Love,Florence + The Machine,2009,Group,female,00:02:38,english,Adelaide,old,20220503,2.942,"regular,valentines,womens,pride"
+Zombie,The Cranberries,1994,Group,female,00:05:06,english,Manuel,new,20211123,2.034,"regular,womens,paddys"
+Ça Plane Pour Moi,Plastic Bertrand,1977,Person,male,00:03:08,french,Bernard,new,20220712,2.004,bastille
